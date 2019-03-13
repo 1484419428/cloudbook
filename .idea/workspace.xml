@@ -45,11 +45,16 @@
         <entry file="file://$PROJECT_DIR$/eureka-client/src/main/java/com/suixingpay/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="262">
               <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
 =======
             <state relative-caret-position="45">
               <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+>>>>>>> dev
+=======
+            <state relative-caret-position="243">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
 >>>>>>> dev
               <folding>
                 <element signature="imports" expanded="true" />
@@ -1370,7 +1375,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="34" />
     <option name="width" value="1309" />
@@ -1629,10 +1634,15 @@
   </component>
   <component name="ToolWindowManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <frame x="-8" y="34" width="1309" height="643" extended-state="0" />
     <editor active="true" />
 =======
     <frame x="-8" y="34" width="1309" height="643" extended-state="1" />
+>>>>>>> dev
+=======
+    <frame x="-8" y="34" width="1309" height="643" extended-state="0" />
+    <editor active="true" />
 >>>>>>> dev
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -1640,14 +1650,18 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run Dashboard" order="7" weight="0.115226336" />
+      <window_info anchor="bottom" id="Run Dashboard" order="7" visible="true" weight="0.115226336" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.6090535" />
 =======
       <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.6090535" />
+>>>>>>> dev
+=======
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.28600824" />
 >>>>>>> dev
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -2147,11 +2161,16 @@
     <entry file="file://$PROJECT_DIR$/eureka-client/src/main/java/com/suixingpay/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="262">
           <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
 =======
         <state relative-caret-position="45">
           <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+>>>>>>> dev
+=======
+        <state relative-caret-position="243">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
 >>>>>>> dev
           <folding>
             <element signature="imports" expanded="true" />
