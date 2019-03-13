@@ -16,7 +16,7 @@ public class UserController {
     public String userRest(){
         RestTemplate restTemplate = new RestTemplate();
        // User user = restTemplate.getForObject("http://localhost:8080/user",User.class); 修改dev代码然后提交到远程
-        
+
         //切换到dev分支修改代码然后合并到master
 
         return restTemplate.getForObject("http://localhost:8080/user",String.class);   //虚拟网址
