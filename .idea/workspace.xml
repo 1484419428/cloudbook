@@ -1622,7 +1622,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="34" width="1309" height="643" extended-state="1" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1633,7 +1632,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32921812" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.52674896" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
@@ -1685,7 +1684,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/dev" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
