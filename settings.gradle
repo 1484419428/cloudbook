@@ -1,0 +1,6 @@
+rootProject.name = 'cloud-book'
+include 'eureka-server'
+include 'eureka-client'
+include 'service-feign'
+include 'eureka-ribbon-client'
+
