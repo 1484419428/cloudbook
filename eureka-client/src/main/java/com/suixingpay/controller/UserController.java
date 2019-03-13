@@ -15,7 +15,7 @@ public class UserController {
     @GetMapping("/user")
     public String userRest(){
         RestTemplate restTemplate = new RestTemplate();
-       // User user = restTemplate.getForObject("http://localhost:8080/user",User.class);
+       // User user = restTemplate.getForObject("http://localhost:8080/user",User.class); 修改dev代码然后提交到远程
 
         return restTemplate.getForObject("http://localhost:8080/user",String.class);   //虚拟网址
     }
