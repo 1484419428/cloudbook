@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5b963ad-08d2-4eff-87a1-d7ae3ef77dd9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/eureka-client/src/main/java/com/suixingpay/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client/src/main/java/com/suixingpay/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client/src/main/java/com/suixingpay/controller/UserLoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client/src/main/java/com/suixingpay/controller/UserLoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -144,6 +143,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -1362,8 +1366,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="81" />
-    <option name="y" value="25" />
+    <option name="x" value="-8" />
+    <option name="y" value="34" />
     <option name="width" value="1309" />
     <option name="height" value="643" />
   </component>
@@ -1619,7 +1623,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="81" y="25" width="1309" height="643" extended-state="1" />
+    <frame x="-8" y="34" width="1309" height="643" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
