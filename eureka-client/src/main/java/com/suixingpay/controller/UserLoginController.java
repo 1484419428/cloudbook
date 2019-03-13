@@ -20,6 +20,5 @@ public class UserLoginController {
     public String login(@RequestParam String name){
         return "hi:"+name+",this is login and port:"+port;
 
-
     }
 }
