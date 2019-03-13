@@ -42,8 +42,8 @@
       <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/eureka-client/src/main/java/com/suixingpay/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="129">
+              <caret line="17" column="104" selection-start-line="17" selection-start-column="104" selection-end-line="17" selection-end-column="104" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1622,6 +1622,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="34" width="1309" height="643" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1903,8 +1904,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/eureka-client/src/main/java/com/suixingpay/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="129">
+          <caret line="17" column="104" selection-start-line="17" selection-start-column="104" selection-end-line="17" selection-end-column="104" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
